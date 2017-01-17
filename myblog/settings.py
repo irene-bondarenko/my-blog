@@ -25,7 +25,7 @@ SECRET_KEY = 'pd+xpngu0^ug+f8jpmw2c5pjp&^wo#se)o$zfejgu87@vq=g+b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['renkolt.pythonanywhere.com']
 
 
 # Application definition
